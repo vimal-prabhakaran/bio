@@ -97,7 +97,10 @@ Java | Spring Boot | Python | Pandas | Node.js | React | MongoDB | Cassandra | M
 
 ## Public Projects & POCs
 
-- [E-Commerce Core Poc](https://github.com/vimal-prabhakaran/pesto-assessment-ecommerce/tree/main)
-
+- [E-Commerce Core Poc](https://github.com/vimal-prabhakaran/pesto-assessment-ecommerce/tree/main) : E-Commerce service with
+  - **Core Business Functionalities:** like onboarding products, placing orders, updating order status.
+  - **Auth Functionalities:** JWT based authentication and authorization.
+  - **API Gateway:** API exposure and routing , address based rate limiting , header validation and enrichment.
+  - **Service Registry and Discovery:** Netflix Eureka based service registry configuration to automatically map the dependent microservices and source endpoints to API Gateway.
 
 Feel free to reach out for collaborations and interesting projects! 😊
