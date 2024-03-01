@@ -2,8 +2,8 @@
 <img src="profile_picture.jpg" width="250"/>
 
 👨‍💻 **Software Development Engineer**  
-📧 vimalprabhakaran98@gmail.com  
-📱 +91 9585576293  
+📧 vimalsince1998@gmail.com  
+📱 +91 8667086582  
 📍 Tamil Nadu, India  
 🔗 [LinkedIn](linkedin.com/in/vimalsince1998)  
 
