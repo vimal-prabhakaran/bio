@@ -1,5 +1,5 @@
 # Vimal Prabhakaran
-<img src="architecture.jpeg" width="800"/>
+<img src="profile_picture.jpg" width="250"/>
 
 👨‍💻 **Software Development Engineer**  
 📧 vimalprabhakaran98@gmail.com  
